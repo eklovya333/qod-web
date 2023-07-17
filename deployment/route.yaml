@@ -9,7 +9,7 @@ spec:
     kind: Service
     name: qod-web
   port:
-    targetPort: 8080-tcp
+    targetPort: http
   tls:
     termination: edge
     insecureEdgeTerminationPolicy: Redirect
