@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: qod-web
-          image: saianilkumardeyyala/qod-web
+          image: swathi1174/qod-db
           imagePullPolicy: Always
           ports:
             - name: http
