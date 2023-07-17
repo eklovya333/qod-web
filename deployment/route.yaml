@@ -4,7 +4,6 @@ metadata:
   name: qod
   namespace: qod
 spec:
-  path: /
   to:
     kind: Service
     name: qod-web
