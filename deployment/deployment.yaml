@@ -25,4 +25,4 @@ spec:
               protocol: TCP
           env:
             - name: QOD_API_URL
-              value: "http://qod-api:8080"
+              value: "http://qod-api:3000"
